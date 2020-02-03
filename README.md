@@ -1,7 +1,11 @@
-# oAuth2 Authorization Server by Wiehan Van Niekerk (Assistance of Blaine Viljoen and dzone Website)
+# oAuth2 Authorization Server 
+## by Wiehan Van Niekerk
 A basic customer authorization server using spring boot security
 
 # Getting Started
+## Reference Assistance
+* Blaine Viljoen 
+* dzone Website
 
 ### Reference Documentation
 For further reference, please consider the following sections:
