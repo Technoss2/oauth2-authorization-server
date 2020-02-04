@@ -1,4 +1,4 @@
-# oAuth2 Authorization Server 
+# SPRING BOOT SECURITY OAUTH2
 ## by Wiehan Van Niekerk
 A basic customer authorization server using spring boot security
 
