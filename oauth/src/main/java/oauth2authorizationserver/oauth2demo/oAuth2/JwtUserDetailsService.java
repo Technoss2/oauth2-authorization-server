@@ -33,7 +33,7 @@ public class JwtUserDetailsService implements UserDetailsService {
         }
     }
 
-    public Customer updateUserToken(UserDTO user) throws SQLException {
+    public Customer save(UserDTO user) throws SQLException {
         Customer customer = new Customer(user);
         return customerRepository.save(customer);
     }

@@ -14,7 +14,7 @@ CREATE TABLE [dbo].[Customers](
 	[Surname] [varchar](50) NULL,
 	[ContactNumber] [varchar](10) NULL,
 	[Email] [varchar](50) NULL,
-	[PasswordHash] [binary](64) NULL,
+	[PasswordHash] [varchar](500) NULL,
 	[Balance] [numeric](12, 2) NULL,
 	[token] [varchar](max) NULL,
  CONSTRAINT [PK__Customer__A4AE64B8F52299AC] PRIMARY KEY CLUSTERED 
